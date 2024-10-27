@@ -1,0 +1,103 @@
+{
+    "comment": "注释：此文件为系统配置文件，不熟悉者请不要随意修改，否则可能造成程序无法正常运行！切忌！切忌！切记！",
+    "competition": {
+        "break_time": "300",
+        "extra_half_time": "300",
+        "half_time": "600",
+        "timeout_count": "4",
+        "timeout_time": "300"
+    },
+    "dog_info": {
+        "ZeusVersion": 0
+    },
+    "fields": [
+        {
+            "default_penalty_distance": "70",
+            "default_start_distance": "50",
+            "label": "7400mm*5400mm",
+            "length": "496",
+            "valid_length": "6050",
+            "valid_width": "4050",
+            "width": "343"
+        },
+        {
+            "default_penalty_distance": "140",
+            "default_start_distance": "100",
+            "label": "10400mm*7400mm",
+            "length": "496",
+            "valid_length": "9000",
+            "valid_width": "6000",
+            "width": "343"
+        }
+    ],
+    "info_communication": {
+        "udp_host": "127.0.0.1",
+        "udp_port": 20000
+    },
+    "monitor": {
+        "camera_numbers": "1",
+        "only_for_referee": false
+    },
+    "referee_communication": {
+        "udp_host": "224.5.23.1",
+        "udp_port": 10003
+    },
+    "report_communication": {
+        "base_port": 20016,
+        "comment": "注释：output_interval用于控制日志输出频率，超过500才起作用，只对debug级别日志有效",
+        "output_interval": 200,
+        "udp_port": 20008
+    },
+    "roles": [
+        {
+            "code": "Kicker",
+            "name": "前锋"
+        },
+        {
+            "code": "Middle",
+            "name": "前腰"
+        },
+        {
+            "code": "Receiver",
+            "name": "中场"
+        },
+        {
+            "code": "Defender",
+            "name": "后腰"
+        },
+        {
+            "code": "Tier",
+            "name": "后卫"
+        },
+        {
+            "code": "Goalie",
+            "name": "守门员"
+        }
+    ],
+    "strategies": {
+        "detect_script": true
+    },
+    "valtages": {
+        "max_battery_val": 16.800000000000001,
+        "max_capacity_val": 200,
+        "min_battery_val": 13.199999999999999,
+        "min_capacity_val": 20,
+        "warn_battery_val": 13.800000000000001,
+        "warn_capacity_val": 20
+    },
+    "velocities": {
+        "flat_shot_vel": 200,
+        "jump_shot_vel": 200,
+        "move_vel": 127,
+        "rotate_vel": 250,
+        "send_interval": 40,
+        "suck_ball_vel": 100
+    },
+    "vision_communication": {
+        "udp_host": "127.0.0.1",
+        "udp_port": 54321
+    },
+    "wireless_communication": {
+        "version": 2016
+    }
+}

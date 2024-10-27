@@ -1,0 +1,2 @@
+gCurrentPlay = gOppoConfig.FrontDef[i]
+

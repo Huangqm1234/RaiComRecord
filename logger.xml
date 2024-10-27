@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<logger>
+   <name>log/planner.log</name>
+   <maxsize>8192000</maxsize>
+   <filecount>10</filecount>
+   <level>debug</level>
+   <autonewline>true</autonewline>
+   <closeimmediate>true</closeimmediate>
+</logger>
+ 

@@ -1,0 +1,2606 @@
+Read Config file
+-----------port:20008
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+========= CMD is S===========
+*****place_posX:0  , posY:0
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+========= CMD is f===========
+*****place_posX:0  , posY:0
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player_pos func,id <0 or id >11  
+warnning !!!call get_our_player_dir func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+========= CMD is S===========
+*****place_posX:0  , posY:0
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  
+Goalienot map id
+Goalienot map id
+warnning !!!call get_our_player func,id <0 or id >11  

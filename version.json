@@ -1,0 +1,38 @@
+{
+    "general_ver": "3.4.2",
+    "root_url": "http://47.96.3.203:8089/",
+    "software": [
+        {
+            "curr_ver": "3.4.2",
+            "name": "SOCCERPLANNER",
+            "new_ver": "0",
+            "paths": ".",
+            "type": "0",
+            "upd_time": "2021-03-18 11:27:29"
+        },
+        {
+            "curr_ver": "1.0.0",
+            "name": "VISION",
+            "new_ver": "0",
+            "paths": "bin",
+            "type": "1",
+            "upd_time": "2016-11-24 11:04:42"
+        },
+        {
+            "curr_ver": "2.0.3",
+            "name": "ZEUS",
+            "new_ver": "0",
+            "paths": "BOTH",
+            "type": "2",
+            "upd_time": "2017-04-12 17:03:29"
+        },
+        {
+            "curr_ver": "2.0.2",
+            "name": "SCRIPTS",
+            "new_ver": "0",
+            "paths": "common/lua_scripts",
+            "type": "3",
+            "upd_time": "2017-01-18 16:24:29"
+        }
+    ]
+}

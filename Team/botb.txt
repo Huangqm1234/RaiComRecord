@@ -1,0 +1,3356 @@
+Read Config file
+-----------port:20008
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+key:gTestPlay
+val:
+
+key:OPPONENT_NAME
+val:
+Default
+key:IS_TEST_MODE
+val:
+false
+key:gRefPlayTable
+val:Package/BackDef/Ref_BackDef
+val:Package/BackDef/Ref_CornerKick
+val:Package/BackKick/Ref_BackKick
+val:Package/BackKick/Ref_BackKick_Demo1
+val:Package/CornerDef/Ref_CornerDef
+val:Package/CornerKick/Ref_CornerKick
+val:Package/FrontDef/Ref_FrontDef
+val:Package/FrontKick/Ref_FrontKick
+val:Package/KickOff/Ref_KickOff
+val:Package/KickOffDef/Ref_KickOffDef
+val:Package/MiddleDef/Ref_MiddleDef
+val:Package/MiddleKick/Ref_MiddleKick
+val:Package/NormalPlay/NormalPlayDefend_4v4
+val:Package/PenaltyDef/Ref_PenaltyDef
+val:Package/PenaltyKick/Ref_PenaltyKick
+val:Package/GameStop/Ref_Stop
+val:Package/PlaceBall/Ref_PlaceBall
+val:Package/PlaceBallDef/Ref_PlaceBallDef
+val:Package/Ref_Halt
+key:gPlayBotSkill
+val:getball
+val:goalie
+val:goreceivepos
+val:halt
+val:normaldef
+val:passball
+val:receiveball
+val:shoot
+val:stop
+val:refdef
+val:gotopos
+val:penaltydef
+val:penaltykick
+val:getplacex
+val:getplacey
+key:gSkill
+val:TierSkill
+val:ReceiverSkill
+val:MiddleSkill
+val:KickerSkill
+val:GoalieSkill
+val:DefenderSkill
+key:gTestPlayTable
+val:
+
+key:gBayesPlayTable
+val:
+Package/NormalPlay/NormalPlayDefend_4v4
+key:gNormalPlay
+val:
+NormalPlayDefend_4v4
+key:gRoleFixNum
+val:3
+val:1
+val:2
+  {
+    1 = Package/BackDef/Ref_BackDef
+    2 = Package/BackDef/Ref_CornerKick
+    3 = Package/BackKick/Ref_BackKick
+    4 = Package/BackKick/Ref_BackKick_Demo1
+    5 = Package/CornerDef/Ref_CornerDef
+    6 = Package/CornerKick/Ref_CornerKick
+    7 = Package/FrontDef/Ref_FrontDef
+    8 = Package/FrontKick/Ref_FrontKick
+    9 = Package/KickOff/Ref_KickOff
+    10 = Package/KickOffDef/Ref_KickOffDef
+    11 = Package/MiddleDef/Ref_MiddleDef
+    12 = Package/MiddleKick/Ref_MiddleKick
+    13 = Package/NormalPlay/NormalPlayDefend_4v4
+    14 = Package/PenaltyDef/Ref_PenaltyDef
+    15 = Package/PenaltyKick/Ref_PenaltyKick
+    16 = Package/GameStop/Ref_Stop
+    17 = Package/PlaceBall/Ref_PlaceBall
+    18 = Package/PlaceBallDef/Ref_PlaceBallDef
+    19 = Package/Ref_Halt
+    20 = Package/NormalPlay/NormalPlayDefend_4v4
+  }
+Init Skill: TierSkill
+Init Skill: ReceiverSkill
+Init Skill: MiddleSkill
+Init Skill: KickerSkill
+Init Skill: GoalieSkill
+Init Skill: DefenderSkill
+Init Skill: getball
+Init Skill: goalie
+Init Skill: goreceivepos
+Init Skill: halt
+Init Skill: normaldef
+Init Skill: passball
+Init Skill: receiveball
+Init Skill: shoot
+Init Skill: stop
+Init Skill: refdef
+Init Skill: gotopos
+Init Skill: penaltydef
+Init Skill: penaltykick
+Init Skill: getplacex
+Init Skill: getplacey
+enter 1
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+enter 2
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Defaudef no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+========= CMD is S===========
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+def no exist
+========= CMD is K===========
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+========= CMD is  ===========
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+========= CMD is S===========
+========= CMD is I===========
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0208	-117.126	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0496	-117.104	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.8617	-117.244	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.2365	-116.965	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.2023	-116.99	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.2782	-116.934	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.2466	-116.957	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0658	-117.092	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0407	-117.11	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.4706	-116.789	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.4717	-116.788	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0452	-117.105	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.3346	-116.885	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.1053	-117.053	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.2407	-116.95	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.1932	-116.981	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.09	-117.055	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.1591	-117	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0041	-117.112	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.8023	-117.259	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.9495	-117.145	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.9117	-117.17	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.3236	-116.86	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.8656	-117.196	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0647	-117.044	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.9883	-117.094	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0583	-117.04	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7976	-117.228	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.1187	-116.984	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.9158	-117.13	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.9262	-117.118	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.937	-117.103	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0126	-117.043	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.8299	-117.174	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.9595	-117.072	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.5602	-117.364	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7	-117.255	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.5006	-117.395	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+lt power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+chip ball
+Default power
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+no dir
+enter 1
+enter 2
+enter 1
+enter 2
+enter 1
+enter 2
+---Enter OurIndirectKick---
+enter 1
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+enter 2
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go recepos1: 36.8146	-116.412	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.212	-116.111	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0833	-116.201	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0216	-116.241	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0571	-116.206	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.2005	-116.093	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.9988	-116.237	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.1302	-116.133	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7719	-116.393	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7377	-116.414	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.994	-116.218	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.847	-116.325	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.9781	-116.224	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.1084	-116.122	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7835	-116.361	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7336	-116.394	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7916	-116.347	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.8538	-116.3	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.115	-116.104	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.1462	-116.078	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.6671	-116.432	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0321	-116.156	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7071	-116.396	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.9535	-116.214	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.8509	-116.286	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0668	-116.126	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7451	-116.362	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.9168	-116.233	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7773	-116.334	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7097	-116.385	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0222	-116.15	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0694	-116.115	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7095	-116.382	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.9941	-116.167	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.845	-116.277	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.7666	-116.336	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 37.0772	-116.102	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+pos1: 36.666	-116.408	
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+coming go receive
+enter 2
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+Default power
+chip ball
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+ warning no opp robots receive ball
+warnning !!!call get_opp_player_pos func,id <0 or id >11  
+========= CMD is S===========

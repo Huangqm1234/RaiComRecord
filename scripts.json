@@ -1,0 +1,733 @@
+{
+    "formalScripts": {
+        "Default": [
+            {
+                "code": "BackDef",
+                "files": [
+                    {
+                        "datetime": "14:08:38 2017.06.13",
+                        "description": "",
+                        "name": "Ref_BackDef"
+                    },
+                    {
+                        "datetime": "17:18:20 2019.01.15",
+                        "description": "",
+                        "name": "Ref_CornerKick"
+                    }
+                ]
+            },
+            {
+                "code": "BackKick",
+                "files": [
+                    {
+                        "datetime": "17:00:02 2019.02.25",
+                        "description": "",
+                        "name": "Ref_BackKick"
+                    },
+                    {
+                        "datetime": "11:58:50 2019.04.03",
+                        "description": "",
+                        "name": "Ref_BackKick_Demo1"
+                    },
+                    {
+                        "datetime": "11:13:12 2019.02.25",
+                        "description": "",
+                        "name": "Ref_BackKick_Demo2"
+                    }
+                ]
+            },
+            {
+                "code": "CornerDef",
+                "files": [
+                    {
+                        "datetime": "19:13:56 2017.06.12",
+                        "description": "",
+                        "name": "Ref_CornerDef"
+                    }
+                ]
+            },
+            {
+                "code": "CornerKick",
+                "files": [
+                    {
+                        "datetime": "18:18:22 2017.06.27",
+                        "description": "",
+                        "name": "Ref_CornerKick"
+                    }
+                ]
+            },
+            {
+                "code": "FrontDef",
+                "files": [
+                    {
+                        "datetime": "19:13:48 2017.06.12",
+                        "description": "",
+                        "name": "Ref_FrontDef"
+                    }
+                ]
+            },
+            {
+                "code": "FrontKick",
+                "files": [
+                    {
+                        "datetime": "14:30:56 2017.06.14",
+                        "description": "",
+                        "name": "Ref_FrontKick"
+                    }
+                ]
+            },
+            {
+                "code": "KickOff",
+                "files": [
+                    {
+                        "datetime": "17:52:32 2017.06.27",
+                        "description": "",
+                        "name": "Ref_KickOff"
+                    }
+                ]
+            },
+            {
+                "code": "KickOffDef",
+                "files": [
+                    {
+                        "datetime": "17:55:54 2017.06.15",
+                        "description": "",
+                        "name": "Ref_KickOffDef"
+                    }
+                ]
+            },
+            {
+                "code": "MiddleDef",
+                "files": [
+                    {
+                        "datetime": "19:13:52 2017.06.12",
+                        "description": "",
+                        "name": "Ref_MiddleDef"
+                    }
+                ]
+            },
+            {
+                "code": "MiddleKick",
+                "files": [
+                    {
+                        "datetime": "14:36:04 2017.06.14",
+                        "description": "",
+                        "name": "Ref_MiddleKick"
+                    }
+                ]
+            },
+            {
+                "code": "Nor",
+                "files": [
+                    {
+                        "datetime": "17:24:06 2017.07.10",
+                        "description": "",
+                        "name": "NormalPlayDefend"
+                    },
+                    {
+                        "datetime": "10:10:26 2019.02.20",
+                        "description": "",
+                        "name": "NormalPlayDefend_4v4"
+                    }
+                ]
+            },
+            {
+                "code": "PenaltyDef",
+                "files": [
+                    {
+                        "datetime": "16:06:44 2017.06.14",
+                        "description": "",
+                        "name": "Ref_PenaltyDef"
+                    }
+                ]
+            },
+            {
+                "code": "PenaltyKick",
+                "files": [
+                    {
+                        "datetime": "16:12:02 2017.07.06",
+                        "description": "",
+                        "name": "Ref_PenaltyKick"
+                    }
+                ]
+            },
+            {
+                "code": "GameStop",
+                "files": [
+                    {
+                        "datetime": "13:36:20 2018.03.06",
+                        "description": "",
+                        "name": "Ref_Stop"
+                    }
+                ]
+            },
+            {
+                "code": "PlaceBall",
+                "files": [
+                    {
+                        "datetime": "13:52:09 2020.02.25",
+                        "description": "",
+                        "name": "Ref_PlaceBall"
+                    },
+                    {
+                        "datetime": "13:57:54 2020.02.11",
+                        "description": "",
+                        "name": "Ref_PlaceBall_Demo1"
+                    }
+                ]
+            },
+            {
+                "code": "PlaceBallDef",
+                "files": [
+                    {
+                        "datetime": "10:27:15 2020.02.25",
+                        "description": "",
+                        "name": "Ref_PlaceBallDef"
+                    },
+                    {
+                        "datetime": "10:27:20 2020.02.25",
+                        "description": "",
+                        "name": "Ref_PlaceBallDef_Demo1"
+                    }
+                ]
+            }
+        ],
+        "Number1": [
+            {
+                "code": "BackDef",
+                "files": [
+                    {
+                        "datetime": "14:08:38 2017.06.13",
+                        "description": "",
+                        "name": "Ref_BackDef"
+                    }
+                ]
+            },
+            {
+                "code": "BackKick",
+                "files": [
+                    {
+                        "datetime": "17:00:02 2019.02.25",
+                        "description": "",
+                        "name": "Ref_BackKick"
+                    },
+                    {
+                        "datetime": "10:59:50 2019.02.25",
+                        "description": "",
+                        "name": "Ref_BackKick_Demo1"
+                    },
+                    {
+                        "datetime": "11:13:12 2019.02.25",
+                        "description": "",
+                        "name": "Ref_BackKick_Demo2"
+                    }
+                ]
+            },
+            {
+                "code": "CornerDef",
+                "files": [
+                    {
+                        "datetime": "19:13:56 2017.06.12",
+                        "description": "",
+                        "name": "Ref_CornerDef"
+                    }
+                ]
+            },
+            {
+                "code": "CornerKick",
+                "files": [
+                    {
+                        "datetime": "18:18:22 2017.06.27",
+                        "description": "",
+                        "name": "Ref_CornerKick"
+                    }
+                ]
+            },
+            {
+                "code": "FrontDef",
+                "files": [
+                    {
+                        "datetime": "19:13:48 2017.06.12",
+                        "description": "",
+                        "name": "Ref_FrontDef"
+                    }
+                ]
+            },
+            {
+                "code": "FrontKick",
+                "files": [
+                    {
+                        "datetime": "14:30:56 2017.06.14",
+                        "description": "",
+                        "name": "Ref_FrontKick"
+                    }
+                ]
+            },
+            {
+                "code": "KickOff",
+                "files": [
+                    {
+                        "datetime": "17:52:32 2017.06.27",
+                        "description": "",
+                        "name": "Ref_KickOff"
+                    }
+                ]
+            },
+            {
+                "code": "KickOffDef",
+                "files": [
+                    {
+                        "datetime": "17:55:54 2017.06.15",
+                        "description": "",
+                        "name": "Ref_KickOffDef"
+                    }
+                ]
+            },
+            {
+                "code": "MiddleDef",
+                "files": [
+                    {
+                        "datetime": "19:13:52 2017.06.12",
+                        "description": "",
+                        "name": "Ref_MiddleDef"
+                    }
+                ]
+            },
+            {
+                "code": "MiddleKick",
+                "files": [
+                    {
+                        "datetime": "14:36:04 2017.06.14",
+                        "description": "",
+                        "name": "Ref_MiddleKick"
+                    }
+                ]
+            },
+            {
+                "code": "Nor",
+                "files": [
+                    {
+                        "datetime": "17:24:06 2017.07.10",
+                        "description": "",
+                        "name": "NormalPlayDefend"
+                    },
+                    {
+                        "datetime": "10:10:26 2019.02.20",
+                        "description": "",
+                        "name": "NormalPlayDefend_4v4"
+                    }
+                ]
+            },
+            {
+                "code": "PenaltyDef",
+                "files": [
+                    {
+                        "datetime": "16:06:44 2017.06.14",
+                        "description": "",
+                        "name": "Ref_PenaltyDef"
+                    }
+                ]
+            },
+            {
+                "code": "PenaltyKick",
+                "files": [
+                    {
+                        "datetime": "16:12:02 2017.07.06",
+                        "description": "",
+                        "name": "Ref_PenaltyKick"
+                    }
+                ]
+            },
+            {
+                "code": "GameStop",
+                "files": [
+                    {
+                        "datetime": "13:36:20 2018.03.06",
+                        "description": "",
+                        "name": "Ref_Stop"
+                    }
+                ]
+            },
+            {
+                "code": "PlaceBall",
+                "files": [
+                    {
+                        "datetime": "10:23:26 2020.02.25",
+                        "description": "",
+                        "name": "Ref_PlaceBall"
+                    },
+                    {
+                        "datetime": "13:57:54 2020.02.11",
+                        "description": "",
+                        "name": "Ref_PlaceBall_Demo1"
+                    }
+                ]
+            },
+            {
+                "code": "PlaceBallDef",
+                "files": [
+                    {
+                        "datetime": "10:27:15 2020.02.25",
+                        "description": "",
+                        "name": "Ref_PlaceBallDef"
+                    },
+                    {
+                        "datetime": "10:27:20 2020.02.25",
+                        "description": "",
+                        "name": "Ref_PlaceBallDef_Demo1"
+                    }
+                ]
+            }
+        ],
+        "Number2": [
+            {
+                "code": "BackDef",
+                "files": [
+                    {
+                        "datetime": "14:08:38 2017.06.13",
+                        "description": "",
+                        "name": "Ref_BackDef"
+                    }
+                ]
+            },
+            {
+                "code": "BackKick",
+                "files": [
+                    {
+                        "datetime": "15:30:38 2018.06.05",
+                        "description": "",
+                        "name": "Ref_BackKick"
+                    },
+                    {
+                        "datetime": "15:28:42 2019.02.22",
+                        "description": "",
+                        "name": "Ref_BackKick_Demo1"
+                    }
+                ]
+            },
+            {
+                "code": "CornerDef",
+                "files": [
+                    {
+                        "datetime": "19:13:56 2017.06.12",
+                        "description": "",
+                        "name": "Ref_CornerDef"
+                    }
+                ]
+            },
+            {
+                "code": "CornerKick",
+                "files": [
+                    {
+                        "datetime": "18:18:22 2017.06.27",
+                        "description": "",
+                        "name": "Ref_CornerKick"
+                    }
+                ]
+            },
+            {
+                "code": "FrontDef",
+                "files": [
+                    {
+                        "datetime": "19:13:48 2017.06.12",
+                        "description": "",
+                        "name": "Ref_FrontDef"
+                    }
+                ]
+            },
+            {
+                "code": "FrontKick",
+                "files": [
+                    {
+                        "datetime": "14:30:56 2017.06.14",
+                        "description": "",
+                        "name": "Ref_FrontKick"
+                    }
+                ]
+            },
+            {
+                "code": "KickOff",
+                "files": [
+                    {
+                        "datetime": "17:52:32 2017.06.27",
+                        "description": "",
+                        "name": "Ref_KickOff"
+                    }
+                ]
+            },
+            {
+                "code": "KickOffDef",
+                "files": [
+                    {
+                        "datetime": "17:55:54 2017.06.15",
+                        "description": "",
+                        "name": "Ref_KickOffDef"
+                    }
+                ]
+            },
+            {
+                "code": "MiddleDef",
+                "files": [
+                    {
+                        "datetime": "19:13:52 2017.06.12",
+                        "description": "",
+                        "name": "Ref_MiddleDef"
+                    }
+                ]
+            },
+            {
+                "code": "MiddleKick",
+                "files": [
+                    {
+                        "datetime": "14:36:04 2017.06.14",
+                        "description": "",
+                        "name": "Ref_MiddleKick"
+                    }
+                ]
+            },
+            {
+                "code": "Nor",
+                "files": [
+                    {
+                        "datetime": "17:24:06 2017.07.10",
+                        "description": "",
+                        "name": "NormalPlayDefend"
+                    },
+                    {
+                        "datetime": "10:10:26 2019.02.20",
+                        "description": "",
+                        "name": "NormalPlayDefend_4v4"
+                    }
+                ]
+            },
+            {
+                "code": "PenaltyDef",
+                "files": [
+                    {
+                        "datetime": "16:06:44 2017.06.14",
+                        "description": "",
+                        "name": "Ref_PenaltyDef"
+                    }
+                ]
+            },
+            {
+                "code": "PenaltyKick",
+                "files": [
+                    {
+                        "datetime": "16:12:02 2017.07.06",
+                        "description": "",
+                        "name": "Ref_PenaltyKick"
+                    }
+                ]
+            },
+            {
+                "code": "GameStop",
+                "files": [
+                    {
+                        "datetime": "13:36:20 2018.03.06",
+                        "description": "",
+                        "name": "Ref_Stop"
+                    }
+                ]
+            },
+            {
+                "code": "PlaceBall",
+                "files": [
+                    {
+                        "datetime": "10:23:26 2020.02.25",
+                        "description": "",
+                        "name": "Ref_PlaceBall"
+                    },
+                    {
+                        "datetime": "13:57:54 2020.02.11",
+                        "description": "",
+                        "name": "Ref_PlaceBall_Demo1"
+                    }
+                ]
+            },
+            {
+                "code": "PlaceBallDef",
+                "files": [
+                    {
+                        "datetime": "10:27:15 2020.02.25",
+                        "description": "",
+                        "name": "Ref_PlaceBallDef"
+                    },
+                    {
+                        "datetime": "10:27:20 2020.02.25",
+                        "description": "",
+                        "name": "Ref_PlaceBallDef_Demo1"
+                    }
+                ]
+            }
+        ],
+        "Number3": [
+            {
+                "code": "BackDef",
+                "files": [
+                ]
+            },
+            {
+                "code": "BackKick",
+                "files": [
+                ]
+            },
+            {
+                "code": "CornerDef",
+                "files": [
+                ]
+            },
+            {
+                "code": "CornerKick",
+                "files": [
+                ]
+            },
+            {
+                "code": "FrontDef",
+                "files": [
+                ]
+            },
+            {
+                "code": "FrontKick",
+                "files": [
+                ]
+            },
+            {
+                "code": "KickOff",
+                "files": [
+                ]
+            },
+            {
+                "code": "KickOffDef",
+                "files": [
+                ]
+            },
+            {
+                "code": "MiddleDef",
+                "files": [
+                ]
+            },
+            {
+                "code": "MiddleKick",
+                "files": [
+                ]
+            },
+            {
+                "code": "Nor",
+                "files": [
+                ]
+            },
+            {
+                "code": "PenaltyDef",
+                "files": [
+                ]
+            },
+            {
+                "code": "PenaltyKick",
+                "files": [
+                ]
+            },
+            {
+                "code": "GameStop",
+                "files": [
+                ]
+            },
+            {
+                "code": "PlaceBall",
+                "files": [
+                ]
+            },
+            {
+                "code": "PlaceBallDef",
+                "files": [
+                ]
+            }
+        ]
+    },
+    "trainScripts": [
+        {
+            "code": "BackDef",
+            "datetime": "15:06:08 2019.01.16",
+            "name": "BackKick_3v3",
+            "type": "后场任意球防守"
+        },
+        {
+            "code": "BackDef",
+            "datetime": "10:17:24 2019.02.26",
+            "name": "Ref_BackKick",
+            "type": "后场任意球防守"
+        },
+        {
+            "code": "BackDef",
+            "datetime": "14:08:34 2019.02.25",
+            "name": "Ref_BackKick_Demo1",
+            "type": "后场任意球防守"
+        },
+        {
+            "code": "BackDef",
+            "datetime": "17:18:20 2019.01.15",
+            "name": "Ref_CornerKick",
+            "type": "后场任意球防守"
+        },
+        {
+            "code": "BackDef",
+            "datetime": "17:42:44 2019.01.15",
+            "name": "Ref_FrontKick",
+            "type": "后场任意球防守"
+        },
+        {
+            "code": "BackDef",
+            "datetime": "17:46:24 2019.01.15",
+            "name": "Ref_FrontKick_3v3",
+            "type": "后场任意球防守"
+        },
+        {
+            "code": "BackDef",
+            "datetime": "15:05:50 2019.01.16",
+            "name": "Ref_MiddleKick",
+            "type": "后场任意球防守"
+        },
+        {
+            "code": "BackKick",
+            "datetime": "17:00:02 2019.02.25",
+            "name": "Ref_BackKick",
+            "type": "后场任意球"
+        },
+        {
+            "code": "CornerKick",
+            "datetime": "17:50:48 2019.01.15",
+            "name": "Ref_FrontKick",
+            "type": "角球"
+        },
+        {
+            "code": "CornerKick",
+            "datetime": "17:49:52 2019.01.15",
+            "name": "Ref_MiddleKick",
+            "type": "角球"
+        },
+        {
+            "code": "KickOff",
+            "datetime": "14:59:40 2019.01.16",
+            "name": "Ref_MiddleKick",
+            "type": "中场开球"
+        },
+        {
+            "code": "Others",
+            "datetime": "11:06:46 2019.01.16",
+            "name": "BackKick_3v3",
+            "type": "Others"
+        },
+        {
+            "code": "Others",
+            "datetime": "11:07:10 2019.01.16",
+            "name": "Ref_MiddleKick",
+            "type": "Others"
+        },
+        {
+            "code": "PlaceBall",
+            "datetime": "21:32:46 2020.02.15",
+            "name": "Ref_PlaceBall",
+            "type": "放球"
+        }
+    ]
+}
